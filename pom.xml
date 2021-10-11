@@ -41,5 +41,10 @@
             <artifactId>fastjson</artifactId>
             <version>1.2.75</version>
         </dependency>
+        <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>MyServer-all</artifactId>
+            <version>4.1.20.Final</version>
+        </dependency>
     </dependencies>
 </project>
